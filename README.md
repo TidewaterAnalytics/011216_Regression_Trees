@@ -1,6 +1,6 @@
 ### Regression Trees
 
-Data and code for the Tuesday, 12 January Meetup.
+Data and code for the [Tuesday, 12 January Meetup](http://www.meetup.com/Tidewater-Analytics/events/226698334/)
 
 Technical leader: [Rick Jones](https://www.linkedin.com/in/rwjones23507)
 
